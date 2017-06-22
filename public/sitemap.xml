@@ -3,12 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://nathanpotter.com/post/hello-world/</loc>
+  </url>
+  
+  <url>
     <loc>http://nathanpotter.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://nathanpotter.com/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://nathanpotter.com/post/</loc>
     <priority>0</priority>
   </url>
   
