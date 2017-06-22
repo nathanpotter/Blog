@@ -1,3 +1,24 @@
-baseURL = "http://example.org/"
+baseURL = "http://nathanpotter.com"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Nathan Potter"
+copyright = "&copy; 2017 Nathan Potter"
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+
+[params]
+description = "The blog of Nathan Potter"
+author = "Nathan Potter"
+
+[params.highlight]
+style = "github"
+languages = ["scala"]
+
+[[params.social]]
+url = "https://github.com/nathanpotter"
+fa_icon = "fa-github"
+
+[[params.social]]
+url = "https://linkedin.com/in/potternathan"
+fa_icon = "fa-linkedin"
